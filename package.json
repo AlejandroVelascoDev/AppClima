@@ -1,5 +1,5 @@
 {
-  "name": "my-expo-app",
+  "name": "app-clima",
   "version": "1.0.0",
   "scripts": {
     "android": "expo start --android",
@@ -11,17 +11,39 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
     "expo": "^53.0.9",
+    "expo-linear-gradient": "~14.1.4",
+    "expo-location": "~18.1.5",
+    "expo-router": "^5.0.7",
     "expo-status-bar": "~2.2.3",
+    "lottie-react-native": "7.2.2",
     "nativewind": "latest",
     "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-native": "0.79.2",
     "react-native-reanimated": "~3.17.4",
-    "react-native-safe-area-context": "5.4.0"
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-web": "^0.20.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@types/babel__core": "^7.20.5",
+    "@types/babel__generator": "^7.27.0",
+    "@types/babel__template": "^7.4.4",
+    "@types/babel__traverse": "^7.20.7",
+    "@types/estree": "^1.0.7",
+    "@types/graceful-fs": "^4.1.9",
+    "@types/istanbul-lib-coverage": "^2.0.6",
+    "@types/istanbul-lib-report": "^3.0.3",
+    "@types/istanbul-reports": "^3.0.4",
+    "@types/json-schema": "^7.0.15",
+    "@types/json5": "^0.0.30",
+    "@types/node": "^22.15.29",
     "@types/react": "~19.0.10",
+    "@types/stack-utils": "^2.0.3",
+    "@types/yargs": "^17.0.33",
+    "@types/yargs-parser": "^21.0.3",
     "eslint": "^9.25.1",
     "eslint-config-expo": "^9.2.0",
     "eslint-config-prettier": "^10.1.2",
