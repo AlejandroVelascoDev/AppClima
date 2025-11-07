@@ -20,5 +20,6 @@ Tailwind CSS — for fast and responsive styling
 
 Weather API — provides live weather data
 
-🖼️ Preview
+🖼️ Preview :
+ 
 <img width="472" height="842" alt="AppClima preview" src="https://github.com/user-attachments/assets/feb00217-1dbb-4f91-9e27-e928042ff6fb" />
